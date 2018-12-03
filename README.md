@@ -1,3 +1,3 @@
-## Try Job Scheduler Library
+## Scheduler Library
 
-- [x] FluentScheduler
+- [x] Fluent Scheduler
